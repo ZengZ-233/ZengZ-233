@@ -13,4 +13,8 @@ I am a Chinese，who is learning Python,C++,Matlab and deep learning.awa
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+Python
+C++
+Matlab
+deep learning
 <!--END_SECTION:waka-->
