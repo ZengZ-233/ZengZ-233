@@ -1,9 +1,5 @@
-
-![image](https://github.com/zzzsakura/zzzsakura/assets/147756443/0d526510-33f1-4ca6-815c-fcf6c4c4e78c)![image](https://github.com/zzzsakura/zzzsakura/assets/147756443/4a62024c-172d-44f1-bc35-0b7690446c39)### Hi there 👋
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzsakura&show_icons=true&theme=radical)
 <!--
-<--**共产主义者** Communists-->
+<--**伟大的无产阶级共产主义者** Communists-->
 ❤Here is a restart for me.A love of programming❤\\
 I am a Chinese，who is learning Python,C++,Matlab and deep learning.awa
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
@@ -11,6 +7,9 @@ I am a Chinese，who is learning Python,C++,Matlab and deep learning.awa
 ![image](https://github.com/zzzsakura/zzzsakura/assets/147756443/f05daef2-c4b3-45f7-9fc4-b2d7be839c8d)
 
 -->
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzsakura&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
