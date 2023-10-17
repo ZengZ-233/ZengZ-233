@@ -17,7 +17,7 @@
 ![image](https://github.com/zzzsakura/zzzsakura/assets/147756443/f05daef2-c4b3-45f7-9fc4-b2d7be839c8d)  
 ![Language](https://img.shields.io/badge/method-deep_learning-brightblue)  
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzsakura&show_icons=true&theme=radical)  
+
 
 <picture>
 
@@ -27,7 +27,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zzzsakura&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 
 ![zzzsakura's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact&hide_border=true&langs_count=10)
