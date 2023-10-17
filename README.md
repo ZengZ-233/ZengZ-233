@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-![zzzsakura's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=zzzsakura&show_icons=true&count_private=true&theme=gotham)
+<!--![zzzsakura's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=zzzsakura&show_icons=true&count_private=true&theme=gotham)-->
 ![zzzsakura's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact&hide_border=true&langs_count=10)
 
 
