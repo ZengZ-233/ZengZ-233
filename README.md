@@ -18,9 +18,12 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzsakura&show_icons=true&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&hide_progress=true)
+
 ![zzzsakura's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzsakura&layout=compact&hide_border=true&langs_count=10)
+
 [![zzzsakura's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zzzsakura)](https://github.com/anuraghazra/github-readme-stats)
 
 
