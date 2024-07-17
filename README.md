@@ -12,10 +12,7 @@
 📝Here is a restart for me.A lover of programming  
 📝I am a Chinese，who is learning Python,C++,Matlab and deep learning.awa🍿  
 📝I am a member of the Institute of Artificial Intelligence😆  
-![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)  
-![Language](https://img.shields.io/badge/language-c++-brightgreen)  
-![image](https://github.com/zzzsakura/zzzsakura/assets/147756443/f05daef2-c4b3-45f7-9fc4-b2d7be839c8d)  
-![Language](https://img.shields.io/badge/method-deep_learning-brightblue)  
+
 
 
 
