@@ -9,7 +9,7 @@
 
 
 🥇伟大的无产阶级共产主义者 Communists  
-📝Here is a restart for me.A love of programming  
+📝Here is a restart for me.A lover of programming  
 📝I am a Chinese，who is learning Python,C++,Matlab and deep learning.awa🍿  
 📝I am a member of the Institute of Artificial Intelligence😆  
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)  
